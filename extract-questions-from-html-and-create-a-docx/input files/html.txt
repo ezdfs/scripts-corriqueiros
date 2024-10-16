@@ -1,0 +1,1 @@
+Isso é apenas um exemplo. <span>Talvez seja diferente para outros exemplos</span><div>Quem sabe com uma outra utilidade<span>Tente adaptar</span></div>

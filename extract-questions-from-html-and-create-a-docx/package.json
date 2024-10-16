@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "jsdom": "^25.0.1"
+  },
+  "scripts": {
+    "create": "node scripts/extract-questions.js && python scripts/create-docx.py"
+  }
+}
